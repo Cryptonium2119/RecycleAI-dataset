@@ -1,25 +1,25 @@
 <annotation>
 	<folder>crumpled paper</folder>
-	<filename>images (3).png</filename>
-	<path>C:\Users\Crypt\Downloads\RecycleAI dataset\crumpled paper\images (3).png</path>
+	<filename>images (3).jpeg</filename>
+	<path>C:\Users\Crypt\Downloads\RecycleAI dataset\crumpled paper\images (3).jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>229</width>
-		<height>220</height>
+		<width>215</width>
+		<height>234</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>crumpled paper</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>8</xmin>
 			<ymin>8</ymin>
-			<xmax>223</xmax>
+			<xmax>215</xmax>
 			<ymax>213</ymax>
 		</bndbox>
 	</object>
