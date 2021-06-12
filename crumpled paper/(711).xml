@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crumpled paper</folder>
+	<filename>(711).jpeg</filename>
+	<path>C:\Users\Crypt\Downloads\RecycleAI dataset\crumpled paper\(711).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crumpled paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>37</ymin>
+			<xmax>214</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
