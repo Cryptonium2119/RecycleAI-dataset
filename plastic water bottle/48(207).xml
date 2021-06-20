@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic water bottle</folder>
+	<filename>48(207).jpeg</filename>
+	<path>C:\Users\Xieshi Zhang\Documents\RecycleAI-dataset\plastic water bottle\48(207).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>142</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic water bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>40</ymin>
+			<xmax>294</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>
